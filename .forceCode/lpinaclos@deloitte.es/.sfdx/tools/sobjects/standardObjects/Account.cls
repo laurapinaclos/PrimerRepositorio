@@ -16,6 +16,7 @@ global class Account {
     global Account Parent;
     global Id ParentId;
     global String BillingStreet;
+    //aqui se inicializa BillingStreet//
     global String BillingCity;
     global String BillingState;
     global String BillingPostalCode;
