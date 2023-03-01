@@ -16,7 +16,7 @@ global class Account {
     global Account Parent;
     global Id ParentId;
     global String BillingStreet;
-    global String BillingCity;
+    global String BillingCity;//Comentamos el cambio
     global String BillingState;
     global String BillingPostalCode;
     global String BillingCountry;
